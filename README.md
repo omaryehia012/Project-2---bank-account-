@@ -2,7 +2,7 @@
 application for banks accounts
 
 ## services
--Deposit
--Withdraw
--Check balance
--Log
+- Deposit
+- Withdraw
+- Check balance
+- Log
